@@ -13,3 +13,4 @@ this project based on web application to evaluate the candidates for getting a s
 - js files folder to treat the data input users  using getMeanCandidate.js file, showing the data result in the front end table (unsig fillTable.js ).
 - alertify folder contains js files for animation notification user .
 -  jquery and AJAX part inside تسجيل-الدخول.php  to authentication the user into web application using post method
+# explanation video
